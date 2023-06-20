@@ -46,7 +46,7 @@ custom_id: The custom id for the Agent.
 Acceptance criteria:
 - The unit tests for the getShiftsByFacility and generateReport functions should pass when using custom Agent ids.
 
-Time/effort estimate: 2 hour
+Time/effort estimate: 2 hours
 
 Implementation details:
 
